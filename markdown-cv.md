@@ -1,4 +1,9 @@
 # <p style="text-align: center;">Sarah Hachouche</p>
+
+<img width="100" src="profile.jpg">
+
+![Screenshot from 2022-11-26 09-53-33](https://user-images.githubusercontent.com/119040296/204157536-2c6902ee-7fb7-485d-8a56-e443b9296e21.png)
+
 ## Education
 
 **Lebanese University**
@@ -28,6 +33,14 @@
 - technologies : HTML5,M-CCS3-ANGULAR-JAVASCRIPT,.NET,C#.
 
 
+**Skills
+-Java
+-Javafx
+-Html5
+-Css3
+-Javascript
+-C/C++/C#
+-MySql
 
 
 
